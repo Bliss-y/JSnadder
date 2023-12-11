@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "JSnadder",
+  "description": "Snadder.io auto complete hack for dummies like me :_)",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html" 
+  },
+  "permissions": [
+    "storage"
+  ],
+
+  "content_scripts": [
+    {
+      "js": ["scripts/index.js"],
+      "matches": [
+        "https://www.snadder.io/*",
+        "https://snadder.io/*"
+      ]
+    }
+  ]
+ 
+}
