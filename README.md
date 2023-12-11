@@ -2,6 +2,7 @@
 Snadder.io Solver (bad algo)
 
 [Link](https://snadder.io)
+
 do not be a cheater !!!
 ## This is for educational purposes only!
     *Only for Dummies who cannot solve the problem themselves*
